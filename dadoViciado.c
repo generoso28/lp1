@@ -9,7 +9,6 @@
 
 int main() {
     int vetor[50], num, quant[6]={0,0,0,0,0,0};
-    srand(time(NULL));
     printf("Digite quantas vezes o dado será lançado: ");
     scanf("%d", &num);
 	for (int i = 0; i < num; i++) {
