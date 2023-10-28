@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\bin\Debug\net6.0\structJogos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\bin\Debug\net6.0\structJogos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\bin\Debug\net6.0\structJogos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\bin\Debug\net6.0\structJogos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\bin\Debug\net6.0\structJogos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\refint\structJogos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\structJogos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lucas\C#\structJogos\structJogos\obj\Debug\net6.0\ref\structJogos.dll
